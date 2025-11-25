@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "Core",
+    "Brand/TMA",
+    "Theme/Alias/Light",
+    "Theme/Alias/Dark",
+    "Theme/Semantic/Light",
+    "Theme/Semantic/Dark",
+    "Platform/Mobile",
+    "Platform/Tablet",
+    "Platform/Desktop"
+  ]
+}

@@ -1,0 +1,2790 @@
+{
+  "bg": {
+    "surface": {
+      "base": {
+        "value": "{role.neutral.0}",
+        "type": "color"
+      },
+      "neutral": {
+        "muted": {
+          "value": "{role.neutral.50}",
+          "type": "color"
+        },
+        "subtlest": {
+          "value": "{role.neutral.100}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.neutral.150}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.neutral.200}",
+          "type": "color"
+        },
+        "subtle-inverse": {
+          "value": "{role.neutral.900}",
+          "type": "color"
+        },
+        "subtler-inverse": {
+          "value": "{role.neutral.800}",
+          "type": "color"
+        },
+        "subtlest-inverse": {
+          "value": "{role.neutral.700}",
+          "type": "color"
+        },
+        "muted-inverse": {
+          "value": "{role.neutral.600}",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "muted": {
+          "value": "{role.primary.50}",
+          "type": "color"
+        },
+        "subtlest": {
+          "value": "{role.primary.100}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.primary.150}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.primary.200}",
+          "type": "color"
+        },
+        "subtle-inverse": {
+          "value": "{role.primary.900}",
+          "type": "color"
+        },
+        "subtler-inverse": {
+          "value": "{role.primary.800}",
+          "type": "color"
+        },
+        "subtlest-inverse": {
+          "value": "{role.primary.700}",
+          "type": "color"
+        },
+        "muted-inverse": {
+          "value": "{role.primary.600}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "muted": {
+          "value": "{role.secondary.50}",
+          "type": "color"
+        },
+        "subtlest": {
+          "value": "{role.secondary.100}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.secondary.150}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.secondary.200}",
+          "type": "color"
+        },
+        "subtle-inverse": {
+          "value": "{role.secondary.900}",
+          "type": "color"
+        },
+        "subtler-inverse": {
+          "value": "{role.secondary.800}",
+          "type": "color"
+        },
+        "subtlest-inverse": {
+          "value": "{role.secondary.700}",
+          "type": "color"
+        },
+        "muted-inverse": {
+          "value": "{role.secondary.600}",
+          "type": "color"
+        }
+      },
+      "positive": {
+        "muted": {
+          "value": "{role.positive.50}",
+          "type": "color"
+        },
+        "subtlest": {
+          "value": "{role.positive.100}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.positive.150}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.positive.200}",
+          "type": "color"
+        },
+        "subtle-inverse": {
+          "value": "{role.positive.900}",
+          "type": "color"
+        },
+        "subtler-inverse": {
+          "value": "{role.positive.800}",
+          "type": "color"
+        },
+        "subtlest-inverse": {
+          "value": "{role.positive.700}",
+          "type": "color"
+        },
+        "muted-inverse": {
+          "value": "{role.positive.600}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "muted": {
+          "value": "{role.warning.50}",
+          "type": "color"
+        },
+        "subtlest": {
+          "value": "{role.warning.100}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.warning.150}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.warning.200}",
+          "type": "color"
+        },
+        "subtle-inverse": {
+          "value": "{role.warning.900}",
+          "type": "color"
+        },
+        "subtler-inverse": {
+          "value": "{role.warning.800}",
+          "type": "color"
+        },
+        "subtlest-inverse": {
+          "value": "{role.warning.700}",
+          "type": "color"
+        },
+        "muted-inverse": {
+          "value": "{role.warning.600}",
+          "type": "color"
+        }
+      },
+      "negative": {
+        "muted": {
+          "value": "{role.negative.50}",
+          "type": "color"
+        },
+        "subtlest": {
+          "value": "{role.negative.100}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.negative.150}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.negative.200}",
+          "type": "color"
+        },
+        "subtle-inverse": {
+          "value": "{role.negative.900}",
+          "type": "color"
+        },
+        "subtler-inverse": {
+          "value": "{role.negative.800}",
+          "type": "color"
+        },
+        "subtlest-inverse": {
+          "value": "{role.negative.700}",
+          "type": "color"
+        },
+        "muted-inverse": {
+          "value": "{role.negative.600}",
+          "type": "color"
+        }
+      }
+    },
+    "soft": {
+      "neutral": {
+        "muted": {
+          "value": "{role.neutral.50}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.neutral.100}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.neutral.150}",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "muted": {
+          "value": "{role.primary.50}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.primary.100}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.primary.150}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "muted": {
+          "value": "{role.secondary.50}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.secondary.100}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.secondary.150}",
+          "type": "color"
+        }
+      },
+      "positive": {
+        "muted": {
+          "value": "{role.positive.50}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.positive.100}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.positive.150}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "muted": {
+          "value": "{role.warning.50}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.warning.100}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.warning.150}",
+          "type": "color"
+        }
+      },
+      "negative": {
+        "muted": {
+          "value": "{role.negative.50}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.negative.100}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.negative.150}",
+          "type": "color"
+        }
+      }
+    },
+    "vibrant": {
+      "neutral": {
+        "muted": {
+          "value": "{role.neutral.400}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.neutral.450}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.neutral.500}",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "muted": {
+          "value": "{role.primary.400}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.primary.450}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.primary.500}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "muted": {
+          "value": "{role.secondary.400}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.secondary.450}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.secondary.500}",
+          "type": "color"
+        }
+      },
+      "positive": {
+        "muted": {
+          "value": "{role.positive.400}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.positive.450}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.positive.500}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "muted": {
+          "value": "{role.warning.400}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.warning.450}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.warning.500}",
+          "type": "color"
+        }
+      },
+      "negative": {
+        "muted": {
+          "value": "{role.negative.400}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.negative.450}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.negative.500}",
+          "type": "color"
+        }
+      }
+    },
+    "bold": {
+      "neutral": {
+        "muted": {
+          "value": "{role.neutral.700}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.neutral.800}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.neutral.900}",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "muted": {
+          "value": "{role.primary.700}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.primary.800}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.primary.900}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "muted": {
+          "value": "{role.secondary.700}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.secondary.800}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.secondary.900}",
+          "type": "color"
+        }
+      },
+      "positive": {
+        "muted": {
+          "value": "{role.positive.700}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.positive.800}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.positive.900}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "muted": {
+          "value": "{role.warning.700}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.warning.800}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.warning.900}",
+          "type": "color"
+        }
+      },
+      "negative": {
+        "muted": {
+          "value": "{role.negative.700}",
+          "type": "color"
+        },
+        "subtler": {
+          "value": "{role.negative.800}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{role.negative.900}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "fg": {
+    "on-surface": {
+      "base": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.350}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.350}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.350}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.350}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.350}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.350}",
+            "type": "color"
+          }
+        }
+      },
+      "muted": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          }
+        }
+      },
+      "subtlest": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          }
+        }
+      },
+      "subtler": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          }
+        }
+      },
+      "subtle": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.700}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.550}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.450}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.700}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.550}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.450}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.700}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.550}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.450}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.700}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.550}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.450}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.700}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.550}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.450}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.700}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.550}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.450}",
+            "type": "color"
+          }
+        }
+      },
+      "muted-inverse": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.300}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.300}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.300}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.300}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.300}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.300}",
+            "type": "color"
+          }
+        }
+      },
+      "subtlest-inverse": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          }
+        }
+      },
+      "subtler-inverse": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.450}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.450}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.450}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.450}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.450}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.450}",
+            "type": "color"
+          }
+        }
+      },
+      "subtle-inverse": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.500}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.500}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.500}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.500}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.500}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.500}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "on-soft": {
+      "muted": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.550}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.450}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          }
+        }
+      },
+      "subtler": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          }
+        }
+      },
+      "subtle": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.600}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "on-vibrant": {
+      "muted": {
+        "neutral": {
+          "moderate": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.700}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "moderate": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.700}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "moderate": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.700}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "moderate": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.700}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "moderate": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.700}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "moderate": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.700}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          }
+        }
+      },
+      "subtler": {
+        "neutral": {
+          "moderate": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "moderate": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "moderate": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "moderate": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "moderate": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "moderate": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          }
+        }
+      },
+      "subtle": {
+        "neutral": {
+          "moderate": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.neutral.900}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "moderate": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.primary.900}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "moderate": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.secondary.900}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "moderate": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.positive.900}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "moderate": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.warning.900}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "moderate": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.200}",
+            "type": "color"
+          },
+          "weak-alt": {
+            "value": "{role.negative.900}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "on-bold": {
+      "muted": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.300}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.300}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.300}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.300}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.300}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.150}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.250}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.300}",
+            "type": "color"
+          }
+        }
+      },
+      "subtlest": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.200}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.300}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          }
+        }
+      },
+      "subtler": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.450}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.450}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.450}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.450}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.450}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.250}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.350}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.450}",
+            "type": "color"
+          }
+        }
+      },
+      "subtle": {
+        "neutral": {
+          "max": {
+            "value": "{role.neutral.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.neutral.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.neutral.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.neutral.500}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "max": {
+            "value": "{role.primary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.primary.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.primary.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.primary.500}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "max": {
+            "value": "{role.secondary.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.secondary.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.secondary.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.secondary.500}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "max": {
+            "value": "{role.positive.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.positive.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.positive.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.positive.500}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "max": {
+            "value": "{role.warning.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.warning.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.warning.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.warning.500}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "max": {
+            "value": "{role.negative.50}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{role.negative.300}",
+            "type": "color"
+          },
+          "moderate": {
+            "value": "{role.negative.400}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{role.negative.500}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "border": {
+    "neutral": {
+      "default": {
+        "value": "{role.neutral.100}",
+        "type": "color"
+      },
+      "soft": {
+        "weak": {
+          "value": "{role.neutral.150}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.neutral.200}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.neutral.250}",
+          "type": "color"
+        }
+      },
+      "vibrant": {
+        "weak": {
+          "value": "{role.neutral.450}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.neutral.500}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.neutral.550}",
+          "type": "color"
+        }
+      },
+      "bold": {
+        "weak": {
+          "value": "{role.neutral.700}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.neutral.800}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.neutral.900}",
+          "type": "color"
+        }
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "{role.primary.100}",
+        "type": "color"
+      },
+      "soft": {
+        "weak": {
+          "value": "{role.primary.150}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.primary.200}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.primary.250}",
+          "type": "color"
+        }
+      },
+      "vibrant": {
+        "weak": {
+          "value": "{role.primary.450}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.primary.500}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.primary.550}",
+          "type": "color"
+        }
+      },
+      "bold": {
+        "weak": {
+          "value": "{role.primary.700}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.primary.800}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.primary.900}",
+          "type": "color"
+        }
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "{role.secondary.100}",
+        "type": "color"
+      },
+      "soft": {
+        "weak": {
+          "value": "{role.secondary.150}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.secondary.200}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.secondary.250}",
+          "type": "color"
+        }
+      },
+      "vibrant": {
+        "weak": {
+          "value": "{role.secondary.450}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.secondary.500}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.secondary.550}",
+          "type": "color"
+        }
+      },
+      "bold": {
+        "weak": {
+          "value": "{role.secondary.700}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.secondary.800}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.secondary.900}",
+          "type": "color"
+        }
+      }
+    },
+    "positive": {
+      "default": {
+        "value": "{role.positive.100}",
+        "type": "color"
+      },
+      "soft": {
+        "weak": {
+          "value": "{role.positive.150}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.positive.200}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.positive.250}",
+          "type": "color"
+        }
+      },
+      "vibrant": {
+        "weak": {
+          "value": "{role.positive.450}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.positive.500}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.positive.550}",
+          "type": "color"
+        }
+      },
+      "bold": {
+        "weak": {
+          "value": "{role.positive.700}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.positive.800}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.positive.900}",
+          "type": "color"
+        }
+      }
+    },
+    "warning": {
+      "default": {
+        "value": "{role.warning.100}",
+        "type": "color"
+      },
+      "soft": {
+        "weak": {
+          "value": "{role.warning.150}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.warning.200}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.warning.250}",
+          "type": "color"
+        }
+      },
+      "vibrant": {
+        "weak": {
+          "value": "{role.warning.450}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.warning.500}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.warning.550}",
+          "type": "color"
+        }
+      },
+      "bold": {
+        "weak": {
+          "value": "{role.warning.700}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.warning.800}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.warning.900}",
+          "type": "color"
+        }
+      }
+    },
+    "negative": {
+      "default": {
+        "value": "{role.negative.100}",
+        "type": "color"
+      },
+      "soft": {
+        "weak": {
+          "value": "{role.negative.150}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.negative.200}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.negative.250}",
+          "type": "color"
+        }
+      },
+      "vibrant": {
+        "weak": {
+          "value": "{role.negative.450}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.negative.500}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.negative.550}",
+          "type": "color"
+        }
+      },
+      "bold": {
+        "weak": {
+          "value": "{role.negative.700}",
+          "type": "color"
+        },
+        "moderate": {
+          "value": "{role.negative.800}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{role.negative.900}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
