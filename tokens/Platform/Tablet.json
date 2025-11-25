@@ -1,6 +1,6 @@
 {
   "viewport-width": {
-    "value": "960",
-    "type": "sizing"
+    "$type": "sizing",
+    "$value": "960"
   }
 }
