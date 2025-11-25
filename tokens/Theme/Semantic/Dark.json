@@ -2,469 +2,469 @@
   "bg": {
     "surface": {
       "base": {
-        "value": "{role.neutral.0}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{role.neutral.0}"
       },
       "neutral": {
         "muted": {
-          "value": "{role.neutral.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.50}"
         },
         "subtlest": {
-          "value": "{role.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.100}"
         },
         "subtler": {
-          "value": "{role.neutral.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.150}"
         },
         "subtle": {
-          "value": "{role.neutral.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.200}"
         },
         "subtle-inverse": {
-          "value": "{role.neutral.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.900}"
         },
         "subtler-inverse": {
-          "value": "{role.neutral.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.800}"
         },
         "subtlest-inverse": {
-          "value": "{role.neutral.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.700}"
         },
         "muted-inverse": {
-          "value": "{role.neutral.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.600}"
         }
       },
       "primary": {
         "muted": {
-          "value": "{role.primary.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.50}"
         },
         "subtlest": {
-          "value": "{role.primary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.100}"
         },
         "subtler": {
-          "value": "{role.primary.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.150}"
         },
         "subtle": {
-          "value": "{role.primary.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.200}"
         },
         "subtle-inverse": {
-          "value": "{role.primary.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.900}"
         },
         "subtler-inverse": {
-          "value": "{role.primary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.800}"
         },
         "subtlest-inverse": {
-          "value": "{role.primary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.700}"
         },
         "muted-inverse": {
-          "value": "{role.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.600}"
         }
       },
       "secondary": {
         "muted": {
-          "value": "{role.secondary.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.50}"
         },
         "subtlest": {
-          "value": "{role.secondary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.100}"
         },
         "subtler": {
-          "value": "{role.secondary.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.150}"
         },
         "subtle": {
-          "value": "{role.secondary.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.200}"
         },
         "subtle-inverse": {
-          "value": "{role.secondary.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.900}"
         },
         "subtler-inverse": {
-          "value": "{role.secondary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.800}"
         },
         "subtlest-inverse": {
-          "value": "{role.secondary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.700}"
         },
         "muted-inverse": {
-          "value": "{role.secondary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.600}"
         }
       },
       "positive": {
         "muted": {
-          "value": "{role.positive.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.50}"
         },
         "subtlest": {
-          "value": "{role.positive.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.100}"
         },
         "subtler": {
-          "value": "{role.positive.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.150}"
         },
         "subtle": {
-          "value": "{role.positive.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.200}"
         },
         "subtle-inverse": {
-          "value": "{role.positive.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.900}"
         },
         "subtler-inverse": {
-          "value": "{role.positive.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.800}"
         },
         "subtlest-inverse": {
-          "value": "{role.positive.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.700}"
         },
         "muted-inverse": {
-          "value": "{role.positive.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.600}"
         }
       },
       "warning": {
         "muted": {
-          "value": "{role.warning.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.50}"
         },
         "subtlest": {
-          "value": "{role.warning.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.100}"
         },
         "subtler": {
-          "value": "{role.warning.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.150}"
         },
         "subtle": {
-          "value": "{role.warning.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.200}"
         },
         "subtle-inverse": {
-          "value": "{role.warning.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.900}"
         },
         "subtler-inverse": {
-          "value": "{role.warning.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.800}"
         },
         "subtlest-inverse": {
-          "value": "{role.warning.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.700}"
         },
         "muted-inverse": {
-          "value": "{role.warning.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.600}"
         }
       },
       "negative": {
         "muted": {
-          "value": "{role.negative.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.50}"
         },
         "subtlest": {
-          "value": "{role.negative.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.100}"
         },
         "subtler": {
-          "value": "{role.negative.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.150}"
         },
         "subtle": {
-          "value": "{role.negative.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.200}"
         },
         "subtle-inverse": {
-          "value": "{role.negative.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.900}"
         },
         "subtler-inverse": {
-          "value": "{role.negative.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.800}"
         },
         "subtlest-inverse": {
-          "value": "{role.negative.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.700}"
         },
         "muted-inverse": {
-          "value": "{role.negative.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.600}"
         }
       }
     },
     "soft": {
       "neutral": {
         "muted": {
-          "value": "{role.neutral.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.50}"
         },
         "subtler": {
-          "value": "{role.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.100}"
         },
         "subtle": {
-          "value": "{role.neutral.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.150}"
         }
       },
       "primary": {
         "muted": {
-          "value": "{role.primary.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.50}"
         },
         "subtler": {
-          "value": "{role.primary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.100}"
         },
         "subtle": {
-          "value": "{role.primary.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.150}"
         }
       },
       "secondary": {
         "muted": {
-          "value": "{role.secondary.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.50}"
         },
         "subtler": {
-          "value": "{role.secondary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.100}"
         },
         "subtle": {
-          "value": "{role.secondary.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.150}"
         }
       },
       "positive": {
         "muted": {
-          "value": "{role.positive.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.50}"
         },
         "subtler": {
-          "value": "{role.positive.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.100}"
         },
         "subtle": {
-          "value": "{role.positive.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.150}"
         }
       },
       "warning": {
         "muted": {
-          "value": "{role.warning.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.50}"
         },
         "subtler": {
-          "value": "{role.warning.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.100}"
         },
         "subtle": {
-          "value": "{role.warning.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.150}"
         }
       },
       "negative": {
         "muted": {
-          "value": "{role.negative.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.50}"
         },
         "subtler": {
-          "value": "{role.negative.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.100}"
         },
         "subtle": {
-          "value": "{role.negative.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.150}"
         }
       }
     },
     "vibrant": {
       "neutral": {
         "muted": {
-          "value": "{role.neutral.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.400}"
         },
         "subtler": {
-          "value": "{role.neutral.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.450}"
         },
         "subtle": {
-          "value": "{role.neutral.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.500}"
         }
       },
       "primary": {
         "muted": {
-          "value": "{role.primary.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.400}"
         },
         "subtler": {
-          "value": "{role.primary.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.450}"
         },
         "subtle": {
-          "value": "{role.primary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.500}"
         }
       },
       "secondary": {
         "muted": {
-          "value": "{role.secondary.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.400}"
         },
         "subtler": {
-          "value": "{role.secondary.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.450}"
         },
         "subtle": {
-          "value": "{role.secondary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.500}"
         }
       },
       "positive": {
         "muted": {
-          "value": "{role.positive.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.400}"
         },
         "subtler": {
-          "value": "{role.positive.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.450}"
         },
         "subtle": {
-          "value": "{role.positive.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.500}"
         }
       },
       "warning": {
         "muted": {
-          "value": "{role.warning.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.400}"
         },
         "subtler": {
-          "value": "{role.warning.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.450}"
         },
         "subtle": {
-          "value": "{role.warning.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.500}"
         }
       },
       "negative": {
         "muted": {
-          "value": "{role.negative.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.400}"
         },
         "subtler": {
-          "value": "{role.negative.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.450}"
         },
         "subtle": {
-          "value": "{role.negative.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.500}"
         }
       }
     },
     "bold": {
       "neutral": {
         "muted": {
-          "value": "{role.neutral.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.700}"
         },
         "subtler": {
-          "value": "{role.neutral.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.800}"
         },
         "subtle": {
-          "value": "{role.neutral.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.900}"
         }
       },
       "primary": {
         "muted": {
-          "value": "{role.primary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.700}"
         },
         "subtler": {
-          "value": "{role.primary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.800}"
         },
         "subtle": {
-          "value": "{role.primary.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.900}"
         }
       },
       "secondary": {
         "muted": {
-          "value": "{role.secondary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.700}"
         },
         "subtler": {
-          "value": "{role.secondary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.800}"
         },
         "subtle": {
-          "value": "{role.secondary.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.900}"
         }
       },
       "positive": {
         "muted": {
-          "value": "{role.positive.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.700}"
         },
         "subtler": {
-          "value": "{role.positive.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.800}"
         },
         "subtle": {
-          "value": "{role.positive.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.900}"
         }
       },
       "warning": {
         "muted": {
-          "value": "{role.warning.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.700}"
         },
         "subtler": {
-          "value": "{role.warning.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.800}"
         },
         "subtle": {
-          "value": "{role.warning.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.900}"
         }
       },
       "negative": {
         "muted": {
-          "value": "{role.negative.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.700}"
         },
         "subtler": {
-          "value": "{role.negative.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.800}"
         },
         "subtle": {
-          "value": "{role.negative.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.900}"
         }
       }
     }
@@ -474,990 +474,990 @@
       "base": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "strong": {
-            "value": "{role.neutral.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.550}"
           },
           "moderate": {
-            "value": "{role.neutral.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.450}"
           },
           "weak": {
-            "value": "{role.neutral.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.350}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "strong": {
-            "value": "{role.primary.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.550}"
           },
           "moderate": {
-            "value": "{role.primary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.450}"
           },
           "weak": {
-            "value": "{role.primary.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.350}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "strong": {
-            "value": "{role.secondary.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.550}"
           },
           "moderate": {
-            "value": "{role.secondary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.450}"
           },
           "weak": {
-            "value": "{role.secondary.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.350}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "strong": {
-            "value": "{role.positive.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.550}"
           },
           "moderate": {
-            "value": "{role.positive.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.450}"
           },
           "weak": {
-            "value": "{role.positive.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.350}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "strong": {
-            "value": "{role.warning.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.550}"
           },
           "moderate": {
-            "value": "{role.warning.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.450}"
           },
           "weak": {
-            "value": "{role.warning.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.350}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "strong": {
-            "value": "{role.negative.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.550}"
           },
           "moderate": {
-            "value": "{role.negative.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.450}"
           },
           "weak": {
-            "value": "{role.negative.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.350}"
           }
         }
       },
       "muted": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "strong": {
-            "value": "{role.neutral.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.550}"
           },
           "moderate": {
-            "value": "{role.neutral.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.450}"
           },
           "weak": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "strong": {
-            "value": "{role.primary.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.550}"
           },
           "moderate": {
-            "value": "{role.primary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.450}"
           },
           "weak": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "strong": {
-            "value": "{role.secondary.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.550}"
           },
           "moderate": {
-            "value": "{role.secondary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.450}"
           },
           "weak": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "strong": {
-            "value": "{role.positive.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.550}"
           },
           "moderate": {
-            "value": "{role.positive.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.450}"
           },
           "weak": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "strong": {
-            "value": "{role.warning.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.550}"
           },
           "moderate": {
-            "value": "{role.warning.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.450}"
           },
           "weak": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "strong": {
-            "value": "{role.negative.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.550}"
           },
           "moderate": {
-            "value": "{role.negative.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.450}"
           },
           "weak": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           }
         }
       },
       "subtlest": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "strong": {
-            "value": "{role.neutral.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.600}"
           },
           "moderate": {
-            "value": "{role.neutral.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.500}"
           },
           "weak": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "strong": {
-            "value": "{role.primary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.600}"
           },
           "moderate": {
-            "value": "{role.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.500}"
           },
           "weak": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "strong": {
-            "value": "{role.secondary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.600}"
           },
           "moderate": {
-            "value": "{role.secondary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.500}"
           },
           "weak": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "strong": {
-            "value": "{role.positive.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.600}"
           },
           "moderate": {
-            "value": "{role.positive.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.500}"
           },
           "weak": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "strong": {
-            "value": "{role.warning.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.600}"
           },
           "moderate": {
-            "value": "{role.warning.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.500}"
           },
           "weak": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "strong": {
-            "value": "{role.negative.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.600}"
           },
           "moderate": {
-            "value": "{role.negative.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.500}"
           },
           "weak": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           }
         }
       },
       "subtler": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "strong": {
-            "value": "{role.neutral.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.600}"
           },
           "moderate": {
-            "value": "{role.neutral.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.500}"
           },
           "weak": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "strong": {
-            "value": "{role.primary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.600}"
           },
           "moderate": {
-            "value": "{role.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.500}"
           },
           "weak": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "strong": {
-            "value": "{role.secondary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.600}"
           },
           "moderate": {
-            "value": "{role.secondary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.500}"
           },
           "weak": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "strong": {
-            "value": "{role.positive.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.600}"
           },
           "moderate": {
-            "value": "{role.positive.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.500}"
           },
           "weak": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "strong": {
-            "value": "{role.warning.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.600}"
           },
           "moderate": {
-            "value": "{role.warning.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.500}"
           },
           "weak": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "strong": {
-            "value": "{role.negative.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.600}"
           },
           "moderate": {
-            "value": "{role.negative.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.500}"
           },
           "weak": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           }
         }
       },
       "subtle": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "strong": {
-            "value": "{role.neutral.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.700}"
           },
           "moderate": {
-            "value": "{role.neutral.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.550}"
           },
           "weak": {
-            "value": "{role.neutral.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.450}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "strong": {
-            "value": "{role.primary.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.700}"
           },
           "moderate": {
-            "value": "{role.primary.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.550}"
           },
           "weak": {
-            "value": "{role.primary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.450}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "strong": {
-            "value": "{role.secondary.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.700}"
           },
           "moderate": {
-            "value": "{role.secondary.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.550}"
           },
           "weak": {
-            "value": "{role.secondary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.450}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "strong": {
-            "value": "{role.positive.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.700}"
           },
           "moderate": {
-            "value": "{role.positive.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.550}"
           },
           "weak": {
-            "value": "{role.positive.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.450}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "strong": {
-            "value": "{role.warning.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.700}"
           },
           "moderate": {
-            "value": "{role.warning.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.550}"
           },
           "weak": {
-            "value": "{role.warning.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.450}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "strong": {
-            "value": "{role.negative.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.700}"
           },
           "moderate": {
-            "value": "{role.negative.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.550}"
           },
           "weak": {
-            "value": "{role.negative.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.450}"
           }
         }
       },
       "muted-inverse": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "strong": {
-            "value": "{role.neutral.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.150}"
           },
           "moderate": {
-            "value": "{role.neutral.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.250}"
           },
           "weak": {
-            "value": "{role.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.300}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "strong": {
-            "value": "{role.primary.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.150}"
           },
           "moderate": {
-            "value": "{role.primary.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.250}"
           },
           "weak": {
-            "value": "{role.primary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.300}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "strong": {
-            "value": "{role.secondary.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.150}"
           },
           "moderate": {
-            "value": "{role.secondary.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.250}"
           },
           "weak": {
-            "value": "{role.secondary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.300}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "strong": {
-            "value": "{role.positive.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.150}"
           },
           "moderate": {
-            "value": "{role.positive.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.250}"
           },
           "weak": {
-            "value": "{role.positive.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.300}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "strong": {
-            "value": "{role.warning.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.150}"
           },
           "moderate": {
-            "value": "{role.warning.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.250}"
           },
           "weak": {
-            "value": "{role.warning.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.300}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "strong": {
-            "value": "{role.negative.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.150}"
           },
           "moderate": {
-            "value": "{role.negative.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.250}"
           },
           "weak": {
-            "value": "{role.negative.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.300}"
           }
         }
       },
       "subtlest-inverse": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "strong": {
-            "value": "{role.neutral.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.200}"
           },
           "moderate": {
-            "value": "{role.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.300}"
           },
           "weak": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "strong": {
-            "value": "{role.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.200}"
           },
           "moderate": {
-            "value": "{role.primary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.300}"
           },
           "weak": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "strong": {
-            "value": "{role.secondary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.200}"
           },
           "moderate": {
-            "value": "{role.secondary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.300}"
           },
           "weak": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "strong": {
-            "value": "{role.positive.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.200}"
           },
           "moderate": {
-            "value": "{role.positive.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.300}"
           },
           "weak": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "strong": {
-            "value": "{role.warning.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.200}"
           },
           "moderate": {
-            "value": "{role.warning.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.300}"
           },
           "weak": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "strong": {
-            "value": "{role.negative.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.200}"
           },
           "moderate": {
-            "value": "{role.negative.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.300}"
           },
           "weak": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           }
         }
       },
       "subtler-inverse": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "strong": {
-            "value": "{role.neutral.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.250}"
           },
           "moderate": {
-            "value": "{role.neutral.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.350}"
           },
           "weak": {
-            "value": "{role.neutral.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.450}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "strong": {
-            "value": "{role.primary.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.250}"
           },
           "moderate": {
-            "value": "{role.primary.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.350}"
           },
           "weak": {
-            "value": "{role.primary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.450}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "strong": {
-            "value": "{role.secondary.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.250}"
           },
           "moderate": {
-            "value": "{role.secondary.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.350}"
           },
           "weak": {
-            "value": "{role.secondary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.450}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "strong": {
-            "value": "{role.positive.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.250}"
           },
           "moderate": {
-            "value": "{role.positive.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.350}"
           },
           "weak": {
-            "value": "{role.positive.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.450}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "strong": {
-            "value": "{role.warning.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.250}"
           },
           "moderate": {
-            "value": "{role.warning.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.350}"
           },
           "weak": {
-            "value": "{role.warning.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.450}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "strong": {
-            "value": "{role.negative.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.250}"
           },
           "moderate": {
-            "value": "{role.negative.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.350}"
           },
           "weak": {
-            "value": "{role.negative.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.450}"
           }
         }
       },
       "subtle-inverse": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "strong": {
-            "value": "{role.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.300}"
           },
           "moderate": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           },
           "weak": {
-            "value": "{role.neutral.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.500}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "strong": {
-            "value": "{role.primary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.300}"
           },
           "moderate": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           },
           "weak": {
-            "value": "{role.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.500}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "strong": {
-            "value": "{role.secondary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.300}"
           },
           "moderate": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           },
           "weak": {
-            "value": "{role.secondary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.500}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "strong": {
-            "value": "{role.positive.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.300}"
           },
           "moderate": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           },
           "weak": {
-            "value": "{role.positive.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.500}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "strong": {
-            "value": "{role.warning.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.300}"
           },
           "moderate": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           },
           "weak": {
-            "value": "{role.warning.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.500}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "strong": {
-            "value": "{role.negative.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.300}"
           },
           "moderate": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           },
           "weak": {
-            "value": "{role.negative.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.500}"
           }
         }
       }
@@ -1466,330 +1466,330 @@
       "muted": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "strong": {
-            "value": "{role.neutral.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.550}"
           },
           "moderate": {
-            "value": "{role.neutral.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.450}"
           },
           "weak": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "strong": {
-            "value": "{role.primary.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.550}"
           },
           "moderate": {
-            "value": "{role.primary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.450}"
           },
           "weak": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "strong": {
-            "value": "{role.secondary.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.550}"
           },
           "moderate": {
-            "value": "{role.secondary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.450}"
           },
           "weak": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "strong": {
-            "value": "{role.positive.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.550}"
           },
           "moderate": {
-            "value": "{role.positive.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.450}"
           },
           "weak": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "strong": {
-            "value": "{role.warning.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.550}"
           },
           "moderate": {
-            "value": "{role.warning.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.450}"
           },
           "weak": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "strong": {
-            "value": "{role.negative.550}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.550}"
           },
           "moderate": {
-            "value": "{role.negative.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.450}"
           },
           "weak": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           }
         }
       },
       "subtler": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "strong": {
-            "value": "{role.neutral.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.600}"
           },
           "moderate": {
-            "value": "{role.neutral.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.500}"
           },
           "weak": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "strong": {
-            "value": "{role.primary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.600}"
           },
           "moderate": {
-            "value": "{role.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.500}"
           },
           "weak": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "strong": {
-            "value": "{role.secondary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.600}"
           },
           "moderate": {
-            "value": "{role.secondary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.500}"
           },
           "weak": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "strong": {
-            "value": "{role.positive.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.600}"
           },
           "moderate": {
-            "value": "{role.positive.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.500}"
           },
           "weak": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "strong": {
-            "value": "{role.warning.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.600}"
           },
           "moderate": {
-            "value": "{role.warning.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.500}"
           },
           "weak": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "strong": {
-            "value": "{role.negative.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.600}"
           },
           "moderate": {
-            "value": "{role.negative.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.500}"
           },
           "weak": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           }
         }
       },
       "subtle": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "strong": {
-            "value": "{role.neutral.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.600}"
           },
           "moderate": {
-            "value": "{role.neutral.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.500}"
           },
           "weak": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "strong": {
-            "value": "{role.primary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.600}"
           },
           "moderate": {
-            "value": "{role.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.500}"
           },
           "weak": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "strong": {
-            "value": "{role.secondary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.600}"
           },
           "moderate": {
-            "value": "{role.secondary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.500}"
           },
           "weak": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "strong": {
-            "value": "{role.positive.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.600}"
           },
           "moderate": {
-            "value": "{role.positive.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.500}"
           },
           "weak": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "strong": {
-            "value": "{role.warning.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.600}"
           },
           "moderate": {
-            "value": "{role.warning.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.500}"
           },
           "weak": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "strong": {
-            "value": "{role.negative.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.600}"
           },
           "moderate": {
-            "value": "{role.negative.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.500}"
           },
           "weak": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           }
         }
       }
@@ -1798,258 +1798,258 @@
       "muted": {
         "neutral": {
           "moderate": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           },
           "weak": {
-            "value": "{role.neutral.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.700}"
           },
           "weak-alt": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           }
         },
         "primary": {
           "moderate": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           },
           "weak": {
-            "value": "{role.primary.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.700}"
           },
           "weak-alt": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           }
         },
         "secondary": {
           "moderate": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           },
           "weak": {
-            "value": "{role.secondary.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.700}"
           },
           "weak-alt": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           }
         },
         "positive": {
           "moderate": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           },
           "weak": {
-            "value": "{role.positive.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.700}"
           },
           "weak-alt": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           }
         },
         "warning": {
           "moderate": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           },
           "weak": {
-            "value": "{role.warning.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.700}"
           },
           "weak-alt": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           }
         },
         "negative": {
           "moderate": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           },
           "weak": {
-            "value": "{role.negative.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.700}"
           },
           "weak-alt": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           }
         }
       },
       "subtler": {
         "neutral": {
           "moderate": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "weak": {
-            "value": "{role.neutral.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.200}"
           },
           "weak-alt": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           }
         },
         "primary": {
           "moderate": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "weak": {
-            "value": "{role.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.200}"
           },
           "weak-alt": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           }
         },
         "secondary": {
           "moderate": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "weak": {
-            "value": "{role.secondary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.200}"
           },
           "weak-alt": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           }
         },
         "positive": {
           "moderate": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "weak": {
-            "value": "{role.positive.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.200}"
           },
           "weak-alt": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           }
         },
         "warning": {
           "moderate": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "weak": {
-            "value": "{role.warning.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.200}"
           },
           "weak-alt": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           }
         },
         "negative": {
           "moderate": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "weak": {
-            "value": "{role.negative.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.200}"
           },
           "weak-alt": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           }
         }
       },
       "subtle": {
         "neutral": {
           "moderate": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "weak": {
-            "value": "{role.neutral.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.200}"
           },
           "weak-alt": {
-            "value": "{role.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.900}"
           }
         },
         "primary": {
           "moderate": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "weak": {
-            "value": "{role.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.200}"
           },
           "weak-alt": {
-            "value": "{role.primary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.900}"
           }
         },
         "secondary": {
           "moderate": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "weak": {
-            "value": "{role.secondary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.200}"
           },
           "weak-alt": {
-            "value": "{role.secondary.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.900}"
           }
         },
         "positive": {
           "moderate": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "weak": {
-            "value": "{role.positive.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.200}"
           },
           "weak-alt": {
-            "value": "{role.positive.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.900}"
           }
         },
         "warning": {
           "moderate": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "weak": {
-            "value": "{role.warning.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.200}"
           },
           "weak-alt": {
-            "value": "{role.warning.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.900}"
           }
         },
         "negative": {
           "moderate": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "weak": {
-            "value": "{role.negative.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.200}"
           },
           "weak-alt": {
-            "value": "{role.negative.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.900}"
           }
         }
       }
@@ -2058,440 +2058,440 @@
       "muted": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "strong": {
-            "value": "{role.neutral.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.150}"
           },
           "moderate": {
-            "value": "{role.neutral.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.250}"
           },
           "weak": {
-            "value": "{role.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.300}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "strong": {
-            "value": "{role.primary.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.150}"
           },
           "moderate": {
-            "value": "{role.primary.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.250}"
           },
           "weak": {
-            "value": "{role.primary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.300}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "strong": {
-            "value": "{role.secondary.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.150}"
           },
           "moderate": {
-            "value": "{role.secondary.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.250}"
           },
           "weak": {
-            "value": "{role.secondary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.300}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "strong": {
-            "value": "{role.positive.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.150}"
           },
           "moderate": {
-            "value": "{role.positive.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.250}"
           },
           "weak": {
-            "value": "{role.positive.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.300}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "strong": {
-            "value": "{role.warning.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.150}"
           },
           "moderate": {
-            "value": "{role.warning.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.250}"
           },
           "weak": {
-            "value": "{role.warning.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.300}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "strong": {
-            "value": "{role.negative.150}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.150}"
           },
           "moderate": {
-            "value": "{role.negative.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.250}"
           },
           "weak": {
-            "value": "{role.negative.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.300}"
           }
         }
       },
       "subtlest": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "strong": {
-            "value": "{role.neutral.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.200}"
           },
           "moderate": {
-            "value": "{role.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.300}"
           },
           "weak": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "strong": {
-            "value": "{role.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.200}"
           },
           "moderate": {
-            "value": "{role.primary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.300}"
           },
           "weak": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "strong": {
-            "value": "{role.secondary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.200}"
           },
           "moderate": {
-            "value": "{role.secondary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.300}"
           },
           "weak": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "strong": {
-            "value": "{role.positive.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.200}"
           },
           "moderate": {
-            "value": "{role.positive.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.300}"
           },
           "weak": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "strong": {
-            "value": "{role.warning.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.200}"
           },
           "moderate": {
-            "value": "{role.warning.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.300}"
           },
           "weak": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "strong": {
-            "value": "{role.negative.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.200}"
           },
           "moderate": {
-            "value": "{role.negative.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.300}"
           },
           "weak": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           }
         }
       },
       "subtler": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "strong": {
-            "value": "{role.neutral.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.250}"
           },
           "moderate": {
-            "value": "{role.neutral.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.350}"
           },
           "weak": {
-            "value": "{role.neutral.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.450}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "strong": {
-            "value": "{role.primary.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.250}"
           },
           "moderate": {
-            "value": "{role.primary.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.350}"
           },
           "weak": {
-            "value": "{role.primary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.450}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "strong": {
-            "value": "{role.secondary.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.250}"
           },
           "moderate": {
-            "value": "{role.secondary.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.350}"
           },
           "weak": {
-            "value": "{role.secondary.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.450}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "strong": {
-            "value": "{role.positive.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.250}"
           },
           "moderate": {
-            "value": "{role.positive.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.350}"
           },
           "weak": {
-            "value": "{role.positive.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.450}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "strong": {
-            "value": "{role.warning.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.250}"
           },
           "moderate": {
-            "value": "{role.warning.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.350}"
           },
           "weak": {
-            "value": "{role.warning.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.450}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "strong": {
-            "value": "{role.negative.250}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.250}"
           },
           "moderate": {
-            "value": "{role.negative.350}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.350}"
           },
           "weak": {
-            "value": "{role.negative.450}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.450}"
           }
         }
       },
       "subtle": {
         "neutral": {
           "max": {
-            "value": "{role.neutral.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.50}"
           },
           "strong": {
-            "value": "{role.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.300}"
           },
           "moderate": {
-            "value": "{role.neutral.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.400}"
           },
           "weak": {
-            "value": "{role.neutral.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.neutral.500}"
           }
         },
         "primary": {
           "max": {
-            "value": "{role.primary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.50}"
           },
           "strong": {
-            "value": "{role.primary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.300}"
           },
           "moderate": {
-            "value": "{role.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.400}"
           },
           "weak": {
-            "value": "{role.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.primary.500}"
           }
         },
         "secondary": {
           "max": {
-            "value": "{role.secondary.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.50}"
           },
           "strong": {
-            "value": "{role.secondary.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.300}"
           },
           "moderate": {
-            "value": "{role.secondary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.400}"
           },
           "weak": {
-            "value": "{role.secondary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.secondary.500}"
           }
         },
         "positive": {
           "max": {
-            "value": "{role.positive.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.50}"
           },
           "strong": {
-            "value": "{role.positive.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.300}"
           },
           "moderate": {
-            "value": "{role.positive.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.400}"
           },
           "weak": {
-            "value": "{role.positive.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.positive.500}"
           }
         },
         "warning": {
           "max": {
-            "value": "{role.warning.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.50}"
           },
           "strong": {
-            "value": "{role.warning.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.300}"
           },
           "moderate": {
-            "value": "{role.warning.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.400}"
           },
           "weak": {
-            "value": "{role.warning.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.warning.500}"
           }
         },
         "negative": {
           "max": {
-            "value": "{role.negative.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.50}"
           },
           "strong": {
-            "value": "{role.negative.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.300}"
           },
           "moderate": {
-            "value": "{role.negative.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.400}"
           },
           "weak": {
-            "value": "{role.negative.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{role.negative.500}"
           }
         }
       }
@@ -2500,289 +2500,289 @@
   "border": {
     "neutral": {
       "default": {
-        "value": "{role.neutral.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{role.neutral.100}"
       },
       "soft": {
         "weak": {
-          "value": "{role.neutral.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.150}"
         },
         "moderate": {
-          "value": "{role.neutral.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.200}"
         },
         "strong": {
-          "value": "{role.neutral.250}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.250}"
         }
       },
       "vibrant": {
         "weak": {
-          "value": "{role.neutral.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.450}"
         },
         "moderate": {
-          "value": "{role.neutral.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.500}"
         },
         "strong": {
-          "value": "{role.neutral.550}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.550}"
         }
       },
       "bold": {
         "weak": {
-          "value": "{role.neutral.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.700}"
         },
         "moderate": {
-          "value": "{role.neutral.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.800}"
         },
         "strong": {
-          "value": "{role.neutral.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.neutral.900}"
         }
       }
     },
     "primary": {
       "default": {
-        "value": "{role.primary.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{role.primary.100}"
       },
       "soft": {
         "weak": {
-          "value": "{role.primary.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.150}"
         },
         "moderate": {
-          "value": "{role.primary.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.200}"
         },
         "strong": {
-          "value": "{role.primary.250}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.250}"
         }
       },
       "vibrant": {
         "weak": {
-          "value": "{role.primary.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.450}"
         },
         "moderate": {
-          "value": "{role.primary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.500}"
         },
         "strong": {
-          "value": "{role.primary.550}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.550}"
         }
       },
       "bold": {
         "weak": {
-          "value": "{role.primary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.700}"
         },
         "moderate": {
-          "value": "{role.primary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.800}"
         },
         "strong": {
-          "value": "{role.primary.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.primary.900}"
         }
       }
     },
     "secondary": {
       "default": {
-        "value": "{role.secondary.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{role.secondary.100}"
       },
       "soft": {
         "weak": {
-          "value": "{role.secondary.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.150}"
         },
         "moderate": {
-          "value": "{role.secondary.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.200}"
         },
         "strong": {
-          "value": "{role.secondary.250}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.250}"
         }
       },
       "vibrant": {
         "weak": {
-          "value": "{role.secondary.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.450}"
         },
         "moderate": {
-          "value": "{role.secondary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.500}"
         },
         "strong": {
-          "value": "{role.secondary.550}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.550}"
         }
       },
       "bold": {
         "weak": {
-          "value": "{role.secondary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.700}"
         },
         "moderate": {
-          "value": "{role.secondary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.800}"
         },
         "strong": {
-          "value": "{role.secondary.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.secondary.900}"
         }
       }
     },
     "positive": {
       "default": {
-        "value": "{role.positive.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{role.positive.100}"
       },
       "soft": {
         "weak": {
-          "value": "{role.positive.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.150}"
         },
         "moderate": {
-          "value": "{role.positive.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.200}"
         },
         "strong": {
-          "value": "{role.positive.250}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.250}"
         }
       },
       "vibrant": {
         "weak": {
-          "value": "{role.positive.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.450}"
         },
         "moderate": {
-          "value": "{role.positive.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.500}"
         },
         "strong": {
-          "value": "{role.positive.550}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.550}"
         }
       },
       "bold": {
         "weak": {
-          "value": "{role.positive.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.700}"
         },
         "moderate": {
-          "value": "{role.positive.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.800}"
         },
         "strong": {
-          "value": "{role.positive.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.positive.900}"
         }
       }
     },
     "warning": {
       "default": {
-        "value": "{role.warning.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{role.warning.100}"
       },
       "soft": {
         "weak": {
-          "value": "{role.warning.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.150}"
         },
         "moderate": {
-          "value": "{role.warning.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.200}"
         },
         "strong": {
-          "value": "{role.warning.250}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.250}"
         }
       },
       "vibrant": {
         "weak": {
-          "value": "{role.warning.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.450}"
         },
         "moderate": {
-          "value": "{role.warning.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.500}"
         },
         "strong": {
-          "value": "{role.warning.550}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.550}"
         }
       },
       "bold": {
         "weak": {
-          "value": "{role.warning.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.700}"
         },
         "moderate": {
-          "value": "{role.warning.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.800}"
         },
         "strong": {
-          "value": "{role.warning.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.warning.900}"
         }
       }
     },
     "negative": {
       "default": {
-        "value": "{role.negative.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{role.negative.100}"
       },
       "soft": {
         "weak": {
-          "value": "{role.negative.150}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.150}"
         },
         "moderate": {
-          "value": "{role.negative.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.200}"
         },
         "strong": {
-          "value": "{role.negative.250}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.250}"
         }
       },
       "vibrant": {
         "weak": {
-          "value": "{role.negative.450}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.450}"
         },
         "moderate": {
-          "value": "{role.negative.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.500}"
         },
         "strong": {
-          "value": "{role.negative.550}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.550}"
         }
       },
       "bold": {
         "weak": {
-          "value": "{role.negative.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.700}"
         },
         "moderate": {
-          "value": "{role.negative.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.800}"
         },
         "strong": {
-          "value": "{role.negative.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{role.negative.900}"
         }
       }
     }

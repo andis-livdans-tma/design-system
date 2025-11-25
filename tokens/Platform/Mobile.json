@@ -1,6 +1,6 @@
 {
   "viewport-width": {
-    "value": "360",
-    "type": "sizing"
+    "$type": "sizing",
+    "$value": "360"
   }
 }
