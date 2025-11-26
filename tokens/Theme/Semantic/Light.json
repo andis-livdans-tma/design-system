@@ -274,114 +274,112 @@
     }
   },
   "fg": {
-    "on-base": {
-      "neutral": {
-        "max": {
-          "$type": "color",
-          "$value": "{role.neutral.900}"
-        },
-        "strong": {
-          "$type": "color",
-          "$value": "{role.neutral.550}"
-        },
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.neutral.450}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.neutral.350}"
-        }
+    "neutral": {
+      "max": {
+        "$type": "color",
+        "$value": "{role.neutral.900}"
       },
-      "primary": {
-        "max": {
-          "$type": "color",
-          "$value": "{role.primary.900}"
-        },
-        "strong": {
-          "$type": "color",
-          "$value": "{role.primary.550}"
-        },
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.primary.450}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.primary.350}"
-        }
+      "strong": {
+        "$type": "color",
+        "$value": "{role.neutral.550}"
       },
-      "secondary": {
-        "max": {
-          "$type": "color",
-          "$value": "{role.secondary.900}"
-        },
-        "strong": {
-          "$type": "color",
-          "$value": "{role.secondary.550}"
-        },
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.secondary.450}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.secondary.350}"
-        }
+      "moderate": {
+        "$type": "color",
+        "$value": "{role.neutral.450}"
       },
-      "positive": {
-        "max": {
-          "$type": "color",
-          "$value": "{role.positive.900}"
-        },
-        "strong": {
-          "$type": "color",
-          "$value": "{role.positive.550}"
-        },
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.positive.450}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.positive.350}"
-        }
+      "weak": {
+        "$type": "color",
+        "$value": "{role.neutral.350}"
+      }
+    },
+    "primary": {
+      "max": {
+        "$type": "color",
+        "$value": "{role.primary.900}"
       },
-      "warning": {
-        "max": {
-          "$type": "color",
-          "$value": "{role.warning.900}"
-        },
-        "strong": {
-          "$type": "color",
-          "$value": "{role.warning.550}"
-        },
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.warning.450}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.warning.350}"
-        }
+      "strong": {
+        "$type": "color",
+        "$value": "{role.primary.550}"
       },
-      "negative": {
-        "max": {
-          "$type": "color",
-          "$value": "{role.negative.900}"
-        },
-        "strong": {
-          "$type": "color",
-          "$value": "{role.negative.550}"
-        },
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.negative.450}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.negative.350}"
-        }
+      "moderate": {
+        "$type": "color",
+        "$value": "{role.primary.450}"
+      },
+      "weak": {
+        "$type": "color",
+        "$value": "{role.primary.350}"
+      }
+    },
+    "secondary": {
+      "max": {
+        "$type": "color",
+        "$value": "{role.secondary.900}"
+      },
+      "strong": {
+        "$type": "color",
+        "$value": "{role.secondary.550}"
+      },
+      "moderate": {
+        "$type": "color",
+        "$value": "{role.secondary.450}"
+      },
+      "weak": {
+        "$type": "color",
+        "$value": "{role.secondary.350}"
+      }
+    },
+    "positive": {
+      "max": {
+        "$type": "color",
+        "$value": "{role.positive.900}"
+      },
+      "strong": {
+        "$type": "color",
+        "$value": "{role.positive.550}"
+      },
+      "moderate": {
+        "$type": "color",
+        "$value": "{role.positive.450}"
+      },
+      "weak": {
+        "$type": "color",
+        "$value": "{role.positive.350}"
+      }
+    },
+    "warning": {
+      "max": {
+        "$type": "color",
+        "$value": "{role.warning.900}"
+      },
+      "strong": {
+        "$type": "color",
+        "$value": "{role.warning.550}"
+      },
+      "moderate": {
+        "$type": "color",
+        "$value": "{role.warning.450}"
+      },
+      "weak": {
+        "$type": "color",
+        "$value": "{role.warning.350}"
+      }
+    },
+    "negative": {
+      "max": {
+        "$type": "color",
+        "$value": "{role.negative.900}"
+      },
+      "strong": {
+        "$type": "color",
+        "$value": "{role.negative.550}"
+      },
+      "moderate": {
+        "$type": "color",
+        "$value": "{role.negative.450}"
+      },
+      "weak": {
+        "$type": "color",
+        "$value": "{role.negative.350}"
       }
     },
     "on-surface": {
@@ -603,90 +601,8 @@
       }
     },
     "on-accent": {
-      "neutral": {
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.neutral.50}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.neutral.200}"
-        },
-        "weak-alt": {
-          "$type": "color",
-          "$value": "{role.neutral.900}"
-        }
-      },
-      "primary": {
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.primary.50}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.primary.200}"
-        },
-        "weak-alt": {
-          "$type": "color",
-          "$value": "{role.primary.900}"
-        }
-      },
-      "secondary": {
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.secondary.50}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.secondary.200}"
-        },
-        "weak-alt": {
-          "$type": "color",
-          "$value": "{role.secondary.900}"
-        }
-      },
-      "positive": {
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.positive.50}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.positive.200}"
-        },
-        "weak-alt": {
-          "$type": "color",
-          "$value": "{role.positive.900}"
-        }
-      },
-      "warning": {
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.warning.50}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.warning.200}"
-        },
-        "weak-alt": {
-          "$type": "color",
-          "$value": "{role.warning.900}"
-        }
-      },
-      "negative": {
-        "moderate": {
-          "$type": "color",
-          "$value": "{role.negative.50}"
-        },
-        "weak": {
-          "$type": "color",
-          "$value": "{role.negative.200}"
-        },
-        "weak-alt": {
-          "$type": "color",
-          "$value": "{role.negative.900}"
-        }
-      }
+      "$type": "color",
+      "$value": "{role.neutral.0}"
     }
   },
   "border": {
