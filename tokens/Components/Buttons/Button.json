@@ -8,11 +8,11 @@
         },
         "hover": {
           "$type": "color",
-          "$value": "linear-gradient(0deg, {bg.surface.vibrant.primary.moderate}  0%, {bg.surface.vibrant.primary.weak}  100%)"
+          "$value": "linear-gradient(0deg, {bg.surface.vibrant.primary.moderate} 0%, {bg.surface.vibrant.primary.weak} 100%)"
         },
         "focus": {
           "$type": "color",
-          "$value": "linear-gradient(0deg, {bg.surface.vibrant.primary.moderate}  0%, {bg.surface.vibrant.primary.weak}  100%)"
+          "$value": "linear-gradient(0deg, {bg.surface.vibrant.primary.moderate} 0%, {bg.surface.vibrant.primary.weak} 100%)"
         },
         "pressed": {
           "$type": "color",

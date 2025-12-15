@@ -3,55 +3,55 @@
     "padding": {
       "small": {
         "$type": "spacing",
-        "$value": "{spacing.xx-small}"
+        "$value": "{spacing.3x-small}"
       },
       "regular": {
         "$type": "spacing",
-        "$value": "{spacing.x-small}"
+        "$value": "{spacing.xx-small}"
       },
       "medium": {
         "$type": "spacing",
-        "$value": "{spacing.x-small}"
+        "$value": "{spacing.xx-small}"
       },
       "large": {
         "$type": "spacing",
-        "$value": "{spacing.small}"
+        "$value": "{spacing.x-small}"
       }
     },
     "padding-text": {
       "small": {
         "$type": "spacing",
-        "$value": "{spacing.5x-small}"
+        "$value": "{spacing.6x-small}"
       },
       "regular": {
         "$type": "spacing",
-        "$value": "{spacing.5x-small}"
+        "$value": "{spacing.6x-small}"
       },
       "medium": {
         "$type": "spacing",
-        "$value": "{spacing.4x-small}"
+        "$value": "{spacing.5x-small}"
       },
       "large": {
         "$type": "spacing",
-        "$value": "{spacing.4x-small}"
+        "$value": "{spacing.5x-small}"
       }
     },
     "gap": {
       "small": {
         "$type": "spacing",
-        "$value": "{spacing.4x-small}"
+        "$value": "{spacing.5x-small}"
       },
       "regular": {
         "$type": "spacing",
-        "$value": "{spacing.4x-small}"
+        "$value": "{spacing.5x-small}"
       },
       "medium": {
         "$type": "spacing",
-        "$value": "{spacing.3x-small}"
+        "$value": "{spacing.4x-small}"
       },
       "large": {
         "$type": "spacing",
-        "$value": "{spacing.xx-small}"
+        "$value": "{spacing.3x-small}"
       }
     },
     "border-radius": {
