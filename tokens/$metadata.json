@@ -8,6 +8,9 @@
     "Theme/Semantic/Dark",
     "Platform/Mobile",
     "Platform/Tablet",
-    "Platform/Desktop"
+    "Platform/Desktop",
+    "Component/Light",
+    "Component/Dark",
+    "Variables/Buttons/Button"
   ]
 }
