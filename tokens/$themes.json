@@ -1392,9 +1392,6 @@
       "border-radius-inward.large-space-small": "9a8cf7012eea751e48e0366a556af5bcfb9bbf80",
       "border-radius-inward.large-space-regular": "f7a9a0dfe97dd7bed4d9e7f007354de4850cef2b",
       "border-radius-inward.large-space-medium": "81269ca55ab7a36ae7a129f31c1cdc08f14a2c6b",
-      "border-width.1": "21c0be0bb70ceac0cc51786c277f0ccf32617236",
-      "border-width.2": "b52c1b38f7e073855a9564791b13019e3cf6ec4d",
-      "border-width.4": "50cbd6049e16fb69a0323cac09f066ea081aa2e7",
       "line-height-dynamic.xx-small-tight": "d002a825a4de2cf3b8930515bc36e8ef3a3402a9",
       "line-height-dynamic.xx-small-normal": "b860b653de3552b22f4b433aa57dbd0867f8fabd",
       "line-height-dynamic.xx-small-loose": "6f35e4506c89e199f21245dd686bbfb7958ac3e6",
@@ -1682,7 +1679,10 @@
       "line-height-static.9x-large-loose": "11ba516559c8b95bb368801a071e56c8ad8fa640",
       "line-height-static.10x-large-tight": "09357d0524dc7d049dc0d46ef51aba0d75246567",
       "line-height-static.10x-large-normal": "aa2a3028be8cdc5f31276563e5df72ca8770b1c7",
-      "line-height-static.10x-large-loose": "21cc990f84ba1f891004c3cb1a02d487b6b9067b"
+      "line-height-static.10x-large-loose": "21cc990f84ba1f891004c3cb1a02d487b6b9067b",
+      "border-width.regular": "21c0be0bb70ceac0cc51786c277f0ccf32617236",
+      "border-width.medium": "b52c1b38f7e073855a9564791b13019e3cf6ec4d",
+      "border-width.large": "50cbd6049e16fb69a0323cac09f066ea081aa2e7"
     },
     "group": "Platform",
     "$figmaCollectionId": "VariableCollectionId:1122:254",
@@ -1802,9 +1802,6 @@
       "border-radius-inward.large-space-small": "9a8cf7012eea751e48e0366a556af5bcfb9bbf80",
       "border-radius-inward.large-space-regular": "f7a9a0dfe97dd7bed4d9e7f007354de4850cef2b",
       "border-radius-inward.large-space-medium": "81269ca55ab7a36ae7a129f31c1cdc08f14a2c6b",
-      "border-width.1": "21c0be0bb70ceac0cc51786c277f0ccf32617236",
-      "border-width.2": "b52c1b38f7e073855a9564791b13019e3cf6ec4d",
-      "border-width.4": "50cbd6049e16fb69a0323cac09f066ea081aa2e7",
       "line-height-dynamic.xx-small-tight": "d002a825a4de2cf3b8930515bc36e8ef3a3402a9",
       "line-height-dynamic.xx-small-normal": "b860b653de3552b22f4b433aa57dbd0867f8fabd",
       "line-height-dynamic.xx-small-loose": "6f35e4506c89e199f21245dd686bbfb7958ac3e6",
@@ -2092,7 +2089,10 @@
       "line-height-static.9x-large-loose": "11ba516559c8b95bb368801a071e56c8ad8fa640",
       "line-height-static.10x-large-tight": "09357d0524dc7d049dc0d46ef51aba0d75246567",
       "line-height-static.10x-large-normal": "aa2a3028be8cdc5f31276563e5df72ca8770b1c7",
-      "line-height-static.10x-large-loose": "21cc990f84ba1f891004c3cb1a02d487b6b9067b"
+      "line-height-static.10x-large-loose": "21cc990f84ba1f891004c3cb1a02d487b6b9067b",
+      "border-width.regular": "21c0be0bb70ceac0cc51786c277f0ccf32617236",
+      "border-width.medium": "b52c1b38f7e073855a9564791b13019e3cf6ec4d",
+      "border-width.large": "50cbd6049e16fb69a0323cac09f066ea081aa2e7"
     },
     "group": "Platform",
     "$figmaCollectionId": "VariableCollectionId:1122:254",
@@ -2362,9 +2362,6 @@
       "border-radius-inward.large-space-small": "9a8cf7012eea751e48e0366a556af5bcfb9bbf80",
       "border-radius-inward.large-space-regular": "f7a9a0dfe97dd7bed4d9e7f007354de4850cef2b",
       "border-radius-inward.large-space-medium": "81269ca55ab7a36ae7a129f31c1cdc08f14a2c6b",
-      "border-width.1": "21c0be0bb70ceac0cc51786c277f0ccf32617236",
-      "border-width.2": "b52c1b38f7e073855a9564791b13019e3cf6ec4d",
-      "border-width.4": "50cbd6049e16fb69a0323cac09f066ea081aa2e7",
       "line-height-dynamic.xx-small-tight": "d002a825a4de2cf3b8930515bc36e8ef3a3402a9",
       "line-height-dynamic.xx-small-normal": "b860b653de3552b22f4b433aa57dbd0867f8fabd",
       "line-height-dynamic.xx-small-loose": "6f35e4506c89e199f21245dd686bbfb7958ac3e6",
@@ -2652,7 +2649,10 @@
       "line-height-static.9x-large-loose": "11ba516559c8b95bb368801a071e56c8ad8fa640",
       "line-height-static.10x-large-tight": "09357d0524dc7d049dc0d46ef51aba0d75246567",
       "line-height-static.10x-large-normal": "aa2a3028be8cdc5f31276563e5df72ca8770b1c7",
-      "line-height-static.10x-large-loose": "21cc990f84ba1f891004c3cb1a02d487b6b9067b"
+      "line-height-static.10x-large-loose": "21cc990f84ba1f891004c3cb1a02d487b6b9067b",
+      "border-width.regular": "21c0be0bb70ceac0cc51786c277f0ccf32617236",
+      "border-width.medium": "b52c1b38f7e073855a9564791b13019e3cf6ec4d",
+      "border-width.large": "50cbd6049e16fb69a0323cac09f066ea081aa2e7"
     },
     "group": "Platform"
   }

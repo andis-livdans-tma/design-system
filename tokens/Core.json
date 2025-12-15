@@ -85,6 +85,208 @@
       "$value": "roundTo ( 128 * {size-scale} /2,0 ) *2"
     }
   },
+  "shadow": {
+    "axis": {
+      "x-small": {
+        "1": {
+          "$type": "sizing",
+          "$value": "0"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "0.5"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "2"
+        }
+      },
+      "small": {
+        "1": {
+          "$type": "sizing",
+          "$value": "0"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "1"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "4"
+        }
+      },
+      "regular": {
+        "1": {
+          "$type": "sizing",
+          "$value": "0.5"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "2"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "8"
+        }
+      },
+      "medium": {
+        "1": {
+          "$type": "sizing",
+          "$value": "1"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "4"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "16"
+        }
+      },
+      "large": {
+        "1": {
+          "$type": "sizing",
+          "$value": "1.5"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "6"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "24"
+        }
+      },
+      "x-large": {
+        "1": {
+          "$type": "sizing",
+          "$value": "2"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "8"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "32"
+        }
+      },
+      "xx-large": {
+        "1": {
+          "$type": "sizing",
+          "$value": "2.5"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "10"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "40"
+        }
+      }
+    },
+    "blur": {
+      "x-small": {
+        "1": {
+          "$type": "sizing",
+          "$value": "0"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "1"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "4"
+        }
+      },
+      "small": {
+        "1": {
+          "$type": "sizing",
+          "$value": "0.5"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "2"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "8"
+        }
+      },
+      "regular": {
+        "1": {
+          "$type": "sizing",
+          "$value": "1"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "4"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "16"
+        }
+      },
+      "medium": {
+        "1": {
+          "$type": "sizing",
+          "$value": "2"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "8"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "32"
+        }
+      },
+      "large": {
+        "1": {
+          "$type": "sizing",
+          "$value": "3"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "12"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "48"
+        }
+      },
+      "x-large": {
+        "1": {
+          "$type": "sizing",
+          "$value": "4"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "16"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "64"
+        }
+      },
+      "xx-large": {
+        "1": {
+          "$type": "sizing",
+          "$value": "5"
+        },
+        "2": {
+          "$type": "sizing",
+          "$value": "20"
+        },
+        "3": {
+          "$type": "sizing",
+          "$value": "80"
+        }
+      }
+    }
+  },
   "space": {
     "6x-small": {
       "$type": "spacing",
@@ -424,15 +626,15 @@
     }
   },
   "border-width": {
-    "1": {
+    "regular": {
       "$type": "borderWidth",
       "$value": "1"
     },
-    "2": {
+    "medium": {
       "$type": "borderWidth",
       "$value": "2"
     },
-    "4": {
+    "large": {
       "$type": "borderWidth",
       "$value": "4"
     }

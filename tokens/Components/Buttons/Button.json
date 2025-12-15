@@ -4,35 +4,35 @@
       "primary": {
         "default": {
           "$type": "color",
-          "$value": "{bg.accent.primary.subtler}"
+          "$value": "{bg.surface.vibrant.primary.moderate}"
         },
         "hover": {
           "$type": "color",
-          "$value": "linear-gradient(0deg, {bg.accent.primary.subtler} 0%, {bg.accent.primary.subtlest} 100%)"
+          "$value": "linear-gradient(0deg, {bg.surface.vibrant.primary.moderate}  0%, {bg.surface.vibrant.primary.weak}  100%)"
         },
         "focus": {
           "$type": "color",
-          "$value": "linear-gradient(0deg, {bg.accent.primary.subtler} 0%, {bg.accent.primary.subtlest} 100%)"
+          "$value": "linear-gradient(0deg, {bg.surface.vibrant.primary.moderate}  0%, {bg.surface.vibrant.primary.weak}  100%)"
         },
         "pressed": {
           "$type": "color",
-          "$value": "{bg.accent.primary.subtle}"
+          "$value": "{bg.surface.vibrant.primary.strong}"
         },
         "default-negative": {
           "$type": "color",
-          "$value": "{bg.accent.negative.subtler}"
+          "$value": "{bg.surface.vibrant.negative.moderate}"
         },
         "hover-negative": {
           "$type": "color",
-          "$value": "linear-gradient(0deg, {bg.accent.negative.subtler} 0%, {bg.accent.negative.subtlest} 100%)"
+          "$value": "linear-gradient(0deg, {bg.surface.vibrant.negative.moderate}  0%, {bg.surface.vibrant.negative.weak}  100%)"
         },
         "focus-negative": {
           "$type": "color",
-          "$value": "linear-gradient(0deg, {bg.accent.negative.subtler} 0%, {bg.accent.negative.subtlest} 100%)"
+          "$value": "linear-gradient(0deg, {bg.surface.vibrant.negative.moderate}  0%, {bg.surface.vibrant.negative.weak}  100%)"
         },
         "pressed-negative": {
           "$type": "color",
-          "$value": "{bg.accent.negative.subtle}"
+          "$value": "{bg.surface.vibrant.negative.strong}"
         },
         "disabled": {
           "$type": "color",
@@ -138,7 +138,7 @@
               "y": "1",
               "blur": "1",
               "spread": "0.5",
-              "color": "{color-role.accent.600}",
+              "color": "{role.primary.600}",
               "type": "innerShadow"
             },
             {
@@ -146,7 +146,7 @@
               "y": "1",
               "blur": "4",
               "spread": "0",
-              "color": "{color-role.accent.600}",
+              "color": "{role.primary.600}",
               "type": "innerShadow"
             }
           ]
