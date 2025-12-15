@@ -84,7 +84,7 @@
         },
         "disabled": {
           "$type": "color",
-          "$value": "{fg.on-weak.neutral.weak}"
+          "$value": "{fg.on-soft.neutral.weak}"
         }
       },
       "secondary": {
@@ -98,7 +98,7 @@
         },
         "disabled": {
           "$type": "color",
-          "$value": "{fg.on-weak.neutral.weak}"
+          "$value": "{fg.on-soft.neutral.weak}"
         }
       },
       "tertiary": {
@@ -112,7 +112,7 @@
         },
         "disabled": {
           "$type": "color",
-          "$value": "{fg.on-weak.neutral.weak}"
+          "$value": "{fg.on-soft.neutral.weak}"
         }
       }
     },

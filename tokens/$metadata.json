@@ -9,7 +9,9 @@
     "Platform/Mobile",
     "Platform/Tablet",
     "Platform/Desktop",
+    "Components/Status/Badge",
     "Components/Buttons/Button",
+    "Variables/Status/Badge",
     "Variables/Buttons/Button"
   ]
 }

@@ -1,0 +1,112 @@
+{
+  "badge": {
+    "bg": {
+      "neutral": {
+        "$type": "color",
+        "$value": "{bg.surface.bold.neutral.strong}"
+      },
+      "neutral-muted": {
+        "$type": "color",
+        "$value": "{bg.surface.soft.neutral.moderate}"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "{bg.surface.vibrant.primary.moderate}"
+      },
+      "primary-muted": {
+        "$type": "color",
+        "$value": "{bg.surface.soft.primary.moderate}"
+      },
+      "positive": {
+        "$type": "color",
+        "$value": "{bg.surface.vibrant.positive.moderate}"
+      },
+      "positive-muted": {
+        "$type": "color",
+        "$value": "{bg.surface.soft.positive.moderate}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{bg.surface.vibrant.warning.moderate}"
+      },
+      "warning-muted": {
+        "$type": "color",
+        "$value": "{bg.surface.soft.warning.moderate}"
+      },
+      "negative": {
+        "$type": "color",
+        "$value": "{bg.surface.vibrant.negative.moderate}"
+      },
+      "negative-muted": {
+        "$type": "color",
+        "$value": "{bg.surface.soft.negative.moderate}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{bg.surface.vibrant.secondary.moderate}"
+      },
+      "secondary-muted": {
+        "$type": "color",
+        "$value": "{bg.surface.soft.secondary.moderate}"
+      }
+    },
+    "fg": {
+      "neutral": {
+        "$type": "color",
+        "$value": "{fg.on-bold.neutral.max}"
+      },
+      "neutral-muted": {
+        "$type": "color",
+        "$value": "{role.neutral.600}"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "{role.primary.25}"
+      },
+      "primary-muted": {
+        "$type": "color",
+        "$value": "{role.primary.600}"
+      },
+      "positive": {
+        "$type": "color",
+        "$value": "{role.positive.25}"
+      },
+      "positive-muted": {
+        "$type": "color",
+        "$value": "{role.positive.600}"
+      },
+      "caution": {
+        "$type": "color",
+        "$value": "{role.caution.25}"
+      },
+      "caution-muted": {
+        "$type": "color",
+        "$value": "{role.caution.600}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{role.warning.25}"
+      },
+      "warning-muted": {
+        "$type": "color",
+        "$value": "{role.warning.600}"
+      },
+      "negative": {
+        "$type": "color",
+        "$value": "{role.negative.25}"
+      },
+      "negative-muted": {
+        "$type": "color",
+        "$value": "{role.negative.600}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{role.secondary.25}"
+      },
+      "secondary-muted": {
+        "$type": "color",
+        "$value": "{role.secondary.600}"
+      }
+    }
+  }
+}
