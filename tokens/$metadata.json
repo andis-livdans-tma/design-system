@@ -9,8 +9,6 @@
     "Platform/Mobile",
     "Platform/Tablet",
     "Platform/Desktop",
-    "Component/Light",
-    "Component/Dark",
-    "Variables/Buttons/Button"
+    "Components/Buttons/Button"
   ]
 }
