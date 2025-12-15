@@ -1,5 +1,5 @@
 {
-  "size": {
+  "sizing": {
     "6x-small": {
       "$type": "sizing",
       "$value": "roundTo ( 2 * {size-scale} /2,0 ) *2"
@@ -438,7 +438,7 @@
       "$type": "borderRadius",
       "$value": "roundTo ( 64 * {border-radius-scale} /2,0 ) *2"
     },
-    "50%": {
+    "circle": {
       "$type": "borderRadius",
       "$value": "9999"
     }
@@ -2641,9 +2641,9 @@
           "$value": {
             "fontFamily": "{font-family.primary}",
             "fontWeight": "{font-weight.enhanced}",
-            "fontSize": "{font-size-static.x-small}",
-            "lineHeight": "{line-height-static.x-small-normal}",
-            "letterSpacing": "{letter-space-static.x-small}"
+            "fontSize": "{font-size-static.xx-small}",
+            "lineHeight": "{line-height-static.xx-small-normal}",
+            "letterSpacing": "{letter-space-static.xx-small}"
           }
         },
         "prominent": {
@@ -2651,9 +2651,9 @@
           "$value": {
             "fontFamily": "{font-family.primary}",
             "fontWeight": "{font-weight.prominent}",
-            "fontSize": "{font-size-static.x-small}",
-            "lineHeight": "{line-height-static.x-small-normal}",
-            "letterSpacing": "{letter-space-static.x-small}"
+            "fontSize": "{font-size-static.xx-small}",
+            "lineHeight": "{line-height-static.xx-small-normal}",
+            "letterSpacing": "{letter-space-static.xx-small}"
           }
         }
       },

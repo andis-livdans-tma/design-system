@@ -11,7 +11,7 @@
     "Platform/Desktop",
     "Components/Status/Badge",
     "Components/Buttons/Button",
-    "Variables/Status/Badge",
-    "Variables/Buttons/Button"
+    "Variables/Buttons/Button",
+    "Variables/Status/Badge"
   ]
 }

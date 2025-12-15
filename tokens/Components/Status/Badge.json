@@ -57,55 +57,47 @@
       },
       "neutral-muted": {
         "$type": "color",
-        "$value": "{role.neutral.600}"
+        "$value": "{fg.on-soft.neutral.moderate}"
       },
       "primary": {
         "$type": "color",
-        "$value": "{role.primary.25}"
+        "$value": "{fg.on-bold.primary.max}"
       },
       "primary-muted": {
         "$type": "color",
-        "$value": "{role.primary.600}"
+        "$value": "{fg.on-soft.primary.moderate}"
       },
       "positive": {
         "$type": "color",
-        "$value": "{role.positive.25}"
+        "$value": "{fg.on-bold.positive.max}"
       },
       "positive-muted": {
         "$type": "color",
-        "$value": "{role.positive.600}"
-      },
-      "caution": {
-        "$type": "color",
-        "$value": "{role.caution.25}"
-      },
-      "caution-muted": {
-        "$type": "color",
-        "$value": "{role.caution.600}"
+        "$value": "{fg.on-soft.positive.moderate}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{role.warning.25}"
+        "$value": "{fg.on-bold.warning.max}"
       },
       "warning-muted": {
         "$type": "color",
-        "$value": "{role.warning.600}"
+        "$value": "{fg.on-soft.warning.moderate}"
       },
       "negative": {
         "$type": "color",
-        "$value": "{role.negative.25}"
+        "$value": "{fg.on-bold.negative.max}"
       },
       "negative-muted": {
         "$type": "color",
-        "$value": "{role.negative.600}"
+        "$value": "{fg.on-soft.negative.moderate}"
       },
       "secondary": {
         "$type": "color",
-        "$value": "{role.secondary.25}"
+        "$value": "{fg.on-bold.secondary.max}"
       },
       "secondary-muted": {
         "$type": "color",
-        "$value": "{role.secondary.600}"
+        "$value": "{fg.on-soft.secondary.moderate}"
       }
     }
   }
