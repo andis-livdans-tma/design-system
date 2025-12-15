@@ -1,0 +1,94 @@
+{
+  "button": {
+    "padding": {
+      "small": {
+        "$type": "spacing",
+        "$value": "{spacing.xx-small}"
+      },
+      "regular": {
+        "$type": "spacing",
+        "$value": "{spacing.x-small}"
+      },
+      "medium": {
+        "$type": "spacing",
+        "$value": "{spacing.x-small}"
+      },
+      "large": {
+        "$type": "spacing",
+        "$value": "{spacing.small}"
+      }
+    },
+    "padding-text": {
+      "small": {
+        "$type": "spacing",
+        "$value": "{spacing.5x-small}"
+      },
+      "regular": {
+        "$type": "spacing",
+        "$value": "{spacing.5x-small}"
+      },
+      "medium": {
+        "$type": "spacing",
+        "$value": "{spacing.4x-small}"
+      },
+      "large": {
+        "$type": "spacing",
+        "$value": "{spacing.4x-small}"
+      }
+    },
+    "gap": {
+      "small": {
+        "$type": "spacing",
+        "$value": "{spacing.4x-small}"
+      },
+      "regular": {
+        "$type": "spacing",
+        "$value": "{spacing.4x-small}"
+      },
+      "medium": {
+        "$type": "spacing",
+        "$value": "{spacing.3x-small}"
+      },
+      "large": {
+        "$type": "spacing",
+        "$value": "{spacing.xx-small}"
+      }
+    },
+    "border-radius": {
+      "small": {
+        "$type": "borderRadius",
+        "$value": "{border-radius.3x-small}"
+      },
+      "regular": {
+        "$type": "borderRadius",
+        "$value": "{border-radius.3x-small}"
+      },
+      "medium": {
+        "$type": "borderRadius",
+        "$value": "{border-radius.xx-small}"
+      },
+      "large": {
+        "$type": "borderRadius",
+        "$value": "{border-radius.x-small}"
+      }
+    },
+    "text": {
+      "small": {
+        "$type": "typography",
+        "$value": "{static.body.regular.enhanced}"
+      },
+      "regular": {
+        "$type": "typography",
+        "$value": "{static.body.medium.enhanced}"
+      },
+      "medium": {
+        "$type": "typography",
+        "$value": "{static.body.large.enhanced}"
+      },
+      "large": {
+        "$type": "typography",
+        "$value": "{static.body.x-large.default}"
+      }
+    }
+  }
+}

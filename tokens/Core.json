@@ -287,7 +287,7 @@
       }
     }
   },
-  "space": {
+  "spacing": {
     "6x-small": {
       "$type": "spacing",
       "$value": "roundTo ( 2 * {space-scale} /2,0 ) *2"
@@ -446,183 +446,183 @@
   "border-radius-inward": {
     "5x-small-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.5x-small} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.5x-small} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "4x-small-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.4x-small} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.4x-small} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "4x-small-space-5x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.4x-small} - {space.5x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.4x-small} - {spacing.5x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "3x-small-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.3x-small} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.3x-small} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "3x-small-space-5x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.3x-small} - {space.5x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.3x-small} - {spacing.5x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "3x-small-space-4x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.3x-small} - {space.4x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.3x-small} - {spacing.4x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "xx-small-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.xx-small} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.xx-small} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "xx-small-space-5x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.xx-small} - {space.5x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.xx-small} - {spacing.5x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "xx-small-space-4x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.xx-small} - {space.4x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.xx-small} - {spacing.4x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "xx-small-space-3x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.xx-small} - {space.3x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.xx-small} - {spacing.3x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "x-small-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.x-small} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.x-small} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "x-small-space-5x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.x-small} - {space.5x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.x-small} - {spacing.5x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "x-small-space-4x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.x-small} - {space.4x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.x-small} - {spacing.4x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "x-small-space-3x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.x-small} - {space.3x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.x-small} - {spacing.3x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "x-small-space-xx-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.x-small} - {space.xx-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.x-small} - {spacing.xx-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "small-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.small} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.small} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "small-space-5x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.small} - {space.5x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.small} - {spacing.5x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "small-space-4x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.small} - {space.4x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.small} - {spacing.4x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "small-space-3x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.small} - {space.3x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.small} - {spacing.3x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "small-space-xx-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.small} - {space.xx-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.small} - {spacing.xx-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "small-space-x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.small} - {space.x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.small} - {spacing.x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "regular-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.regular} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.regular} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "regular-space-5x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.regular} - {space.5x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.regular} - {spacing.5x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "regular-space-4x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.regular} - {space.4x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.regular} - {spacing.4x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "regular-space-3x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.regular} - {space.3x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.regular} - {spacing.3x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "regular-space-xx-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.regular} - {space.xx-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.regular} - {spacing.xx-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "regular-space-x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.regular} - {space.x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.regular} - {spacing.x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "regular-space-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.regular} - {space.small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.regular} - {spacing.small}) * {border-radius-scale} /1,0 ) *1"
     },
     "medium-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.medium} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.medium} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "medium-space-5x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.medium} - {space.5x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.medium} - {spacing.5x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "medium-space-4x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.medium} - {space.4x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.medium} - {spacing.4x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "medium-space-3x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.medium} - {space.3x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.medium} - {spacing.3x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "medium-space-xx-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.medium} - {space.xx-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.medium} - {spacing.xx-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "medium-space-x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.medium} - {space.x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.medium} - {spacing.x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "medium-space-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.medium} - {space.small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.medium} - {spacing.small}) * {border-radius-scale} /1,0 ) *1"
     },
     "medium-space-regular": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.medium} - {space.regular}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.medium} - {spacing.regular}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-6x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.6x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.6x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-5x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.5x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.5x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-4x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.4x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.4x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-3x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.3x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.3x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-xx-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.xx-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.xx-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-x-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.x-small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.x-small}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-small": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.small}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.small}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-regular": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.regular}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.regular}) * {border-radius-scale} /1,0 ) *1"
     },
     "large-space-medium": {
       "$type": "borderRadius",
-      "$value": "roundTo ( ( {border-radius.large} - {space.medium}) * {border-radius-scale} /1,0 ) *1"
+      "$value": "roundTo ( ( {border-radius.large} - {spacing.medium}) * {border-radius-scale} /1,0 ) *1"
     }
   },
   "border-width": {

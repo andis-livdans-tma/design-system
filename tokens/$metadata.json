@@ -9,6 +9,7 @@
     "Platform/Mobile",
     "Platform/Tablet",
     "Platform/Desktop",
-    "Components/Buttons/Button"
+    "Components/Buttons/Button",
+    "Variables/Buttons/Button"
   ]
 }
