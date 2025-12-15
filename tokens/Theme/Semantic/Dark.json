@@ -5,270 +5,310 @@
       "$value": "{role.neutral.0}"
     },
     "surface": {
-      "neutral": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.neutral.50}"
+      "soft": {
+        "neutral": {
+          "weak": {
+            "$type": "color",
+            "$value": "{role.neutral.50}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.neutral.100}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.neutral.150}"
+          }
         },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.neutral.100}"
+        "primary": {
+          "weak": {
+            "$type": "color",
+            "$value": "{role.primary.50}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.primary.100}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.primary.150}"
+          }
         },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.neutral.150}"
+        "secondary": {
+          "weak": {
+            "$type": "color",
+            "$value": "{role.secondary.50}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.secondary.100}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.secondary.150}"
+          }
         },
-        "subtle-inverse": {
-          "$type": "color",
-          "$value": "{role.neutral.900}"
+        "positive": {
+          "weak": {
+            "$type": "color",
+            "$value": "{role.positive.50}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.positive.100}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.positive.150}"
+          }
         },
-        "subtler-inverse": {
-          "$type": "color",
-          "$value": "{role.neutral.800}"
+        "warning": {
+          "weak": {
+            "$type": "color",
+            "$value": "{role.warning.50}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.warning.100}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.warning.150}"
+          }
         },
-        "muted-inverse": {
-          "$type": "color",
-          "$value": "{role.neutral.700}"
+        "negative": {
+          "weak": {
+            "$type": "color",
+            "$value": "{role.negative.50}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.negative.100}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.negative.150}"
+          }
         }
       },
-      "primary": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.primary.50}"
+      "vibrant": {
+        "neutral": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.neutral.350}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.neutral.400}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.neutral.450}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.neutral.500}"
+          }
         },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.primary.100}"
+        "primary": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.primary.350}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.primary.400}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.primary.450}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.primary.500}"
+          }
         },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.primary.150}"
+        "secondary": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.secondary.350}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.secondary.400}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.secondary.450}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.secondary.500}"
+          }
         },
-        "subtle-inverse": {
-          "$type": "color",
-          "$value": "{role.primary.900}"
+        "positive": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.positive.350}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.positive.400}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.positive.450}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.positive.500}"
+          }
         },
-        "subtler-inverse": {
-          "$type": "color",
-          "$value": "{role.primary.800}"
+        "warning": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.warning.350}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.warning.400}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.warning.450}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.warning.500}"
+          }
         },
-        "muted-inverse": {
-          "$type": "color",
-          "$value": "{role.primary.700}"
+        "negative": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.negative.350}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.negative.400}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.negative.450}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.negative.500}"
+          }
         }
       },
-      "secondary": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.secondary.50}"
+      "bold": {
+        "neutral": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.neutral.600}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.neutral.700}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.neutral.800}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.neutral.900}"
+          }
         },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.secondary.100}"
+        "primary": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.primary.600}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.primary.700}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.primary.800}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.primary.900}"
+          }
         },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.secondary.150}"
+        "secondary": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.secondary.600}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.secondary.700}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.secondary.800}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.secondary.900}"
+          }
         },
-        "subtle-inverse": {
-          "$type": "color",
-          "$value": "{role.secondary.900}"
+        "positive": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.positive.600}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.positive.700}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.positive.800}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.positive.900}"
+          }
         },
-        "subtler-inverse": {
-          "$type": "color",
-          "$value": "{role.secondary.800}"
+        "warning": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.warning.600}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.warning.700}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.warning.800}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.warning.900}"
+          }
         },
-        "muted-inverse": {
-          "$type": "color",
-          "$value": "{role.secondary.700}"
-        }
-      },
-      "positive": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.positive.50}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.positive.100}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.positive.150}"
-        },
-        "subtle-inverse": {
-          "$type": "color",
-          "$value": "{role.positive.900}"
-        },
-        "subtler-inverse": {
-          "$type": "color",
-          "$value": "{role.positive.800}"
-        },
-        "muted-inverse": {
-          "$type": "color",
-          "$value": "{role.positive.700}"
-        }
-      },
-      "warning": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.warning.50}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.warning.100}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.warning.150}"
-        },
-        "subtle-inverse": {
-          "$type": "color",
-          "$value": "{role.warning.900}"
-        },
-        "subtler-inverse": {
-          "$type": "color",
-          "$value": "{role.warning.800}"
-        },
-        "muted-inverse": {
-          "$type": "color",
-          "$value": "{role.warning.700}"
-        }
-      },
-      "negative": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.negative.50}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.negative.100}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.negative.150}"
-        },
-        "subtle-inverse": {
-          "$type": "color",
-          "$value": "{role.negative.900}"
-        },
-        "subtler-inverse": {
-          "$type": "color",
-          "$value": "{role.negative.800}"
-        },
-        "muted-inverse": {
-          "$type": "color",
-          "$value": "{role.negative.700}"
-        }
-      }
-    },
-    "accent": {
-      "neutral": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.neutral.350}"
-        },
-        "subtlest": {
-          "$type": "color",
-          "$value": "{role.neutral.400}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.neutral.450}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.neutral.500}"
-        }
-      },
-      "primary": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.primary.350}"
-        },
-        "subtlest": {
-          "$type": "color",
-          "$value": "{role.primary.400}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.primary.450}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.primary.500}"
-        }
-      },
-      "secondary": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.secondary.350}"
-        },
-        "subtlest": {
-          "$type": "color",
-          "$value": "{role.secondary.400}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.secondary.450}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.secondary.500}"
-        }
-      },
-      "positive": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.positive.350}"
-        },
-        "subtlest": {
-          "$type": "color",
-          "$value": "{role.positive.400}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.positive.450}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.positive.500}"
-        }
-      },
-      "warning": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.warning.350}"
-        },
-        "subtlest": {
-          "$type": "color",
-          "$value": "{role.warning.400}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.warning.450}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.warning.500}"
-        }
-      },
-      "negative": {
-        "muted": {
-          "$type": "color",
-          "$value": "{role.negative.350}"
-        },
-        "subtlest": {
-          "$type": "color",
-          "$value": "{role.negative.400}"
-        },
-        "subtler": {
-          "$type": "color",
-          "$value": "{role.negative.450}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{role.negative.500}"
+        "negative": {
+          "muted": {
+            "$type": "color",
+            "$value": "{role.negative.600}"
+          },
+          "weak": {
+            "$type": "color",
+            "$value": "{role.negative.700}"
+          },
+          "moderate": {
+            "$type": "color",
+            "$value": "{role.negative.800}"
+          },
+          "strong": {
+            "$type": "color",
+            "$value": "{role.negative.900}"
+          }
         }
       }
     }
@@ -382,7 +422,7 @@
         "$value": "{role.negative.350}"
       }
     },
-    "on-surface": {
+    "on-weak": {
       "neutral": {
         "max": {
           "$type": "color",
@@ -490,8 +530,10 @@
           "$type": "color",
           "$value": "{role.negative.400}"
         }
-      },
-      "neutral-inverse": {
+      }
+    },
+    "on-strong": {
+      "neutral": {
         "max": {
           "$type": "color",
           "$value": "{role.neutral.50}"
@@ -509,7 +551,7 @@
           "$value": "{role.neutral.400}"
         }
       },
-      "primary-inverse": {
+      "primary": {
         "max": {
           "$type": "color",
           "$value": "{role.primary.50}"
@@ -527,7 +569,7 @@
           "$value": "{role.primary.400}"
         }
       },
-      "secondary-inverse": {
+      "secondary": {
         "max": {
           "$type": "color",
           "$value": "{role.secondary.50}"
@@ -545,7 +587,7 @@
           "$value": "{role.secondary.400}"
         }
       },
-      "positive-inverse": {
+      "positive": {
         "max": {
           "$type": "color",
           "$value": "{role.positive.50}"
@@ -563,7 +605,7 @@
           "$value": "{role.positive.400}"
         }
       },
-      "warning-inverse": {
+      "warning": {
         "max": {
           "$type": "color",
           "$value": "{role.warning.50}"
@@ -581,7 +623,7 @@
           "$value": "{role.warning.400}"
         }
       },
-      "negative-inverse": {
+      "negative": {
         "max": {
           "$type": "color",
           "$value": "{role.negative.50}"
@@ -600,7 +642,7 @@
         }
       }
     },
-    "on-accent": {
+    "on-vibrant": {
       "$type": "color",
       "$value": "{role.neutral.0}"
     }
