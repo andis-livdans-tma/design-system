@@ -39,25 +39,33 @@
     "text": {
       "small": {
         "$type": "typography",
-        "$value": "{static.body.small.default}"
+        "$value": "{static.body.x-small.default}"
       },
       "regular": {
         "$type": "typography",
-        "$value": "{static.body.regular.default}"
+        "$value": "{static.body.small.default}"
       },
       "medium": {
         "$type": "typography",
-        "$value": "{static.body.medium.default}"
+        "$value": "{static.body.regular.default}"
       }
     }
   },
   "dot-badge": {
     "sizing": {
+      "small": {
+        "$type": "sizing",
+        "$value": "{sizing.5x-small}"
+      },
       "regular": {
         "$type": "sizing",
         "$value": "{sizing.4x-small}"
       },
       "medium": {
+        "$type": "sizing",
+        "$value": "{sizing.3x-small}"
+      },
+      "large": {
         "$type": "sizing",
         "$value": "{sizing.xx-small}"
       }
