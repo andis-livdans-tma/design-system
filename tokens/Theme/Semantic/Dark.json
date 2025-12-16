@@ -422,7 +422,7 @@
         "$value": "{role.negative.350}"
       }
     },
-    "on-weak": {
+    "on-soft": {
       "neutral": {
         "max": {
           "$type": "color",
@@ -532,7 +532,7 @@
         }
       }
     },
-    "on-strong": {
+    "on-bold": {
       "neutral": {
         "max": {
           "$type": "color",
