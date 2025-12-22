@@ -7,7 +7,7 @@
       },
       "regular": {
         "$type": "spacing",
-        "$value": "{spacing.xx-small}"
+        "$value": "{spacing.3x-small}"
       },
       "medium": {
         "$type": "spacing",
