@@ -3206,5 +3206,16 @@
       "number-badge.padding.vertical.medium": "886fce489ea1c065782347d4101c10008fe00b23"
     },
     "group": "Variables"
+  },
+  {
+    "id": "0b3853d74bcf8b5c6081e027b5182793fcc5dfb1",
+    "name": "Sweepstack",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Brand/Sweepstack": "enabled",
+      "Components/Status/Badge/Sweepstack": "enabled",
+      "Components/Buttons/Button/Sweepstack": "enabled"
+    },
+    "group": "Brand"
   }
 ]
