@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "Core",
-    "Brand/Sweepstack",
     "Brand/TMA",
     "Theme/Alias/Light",
     "Theme/Alias/Dark",
@@ -10,9 +9,7 @@
     "Platform/Mobile",
     "Platform/Tablet",
     "Platform/Desktop",
-    "Components/Status/Badge/Sweepstack",
     "Components/Status/Badge/TMA",
-    "Components/Buttons/Button/Sweepstack",
     "Components/Buttons/Button/TMA",
     "Variables/Buttons/Button",
     "Variables/Status/Badge"
