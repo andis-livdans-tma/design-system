@@ -120,15 +120,15 @@
       "primary": {
         "default": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.primary.default}"
+          "$value": "{shadow-raised.primary.default}"
         },
         "hover": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.primary.hover}"
+          "$value": "{shadow-raised.primary.hover}"
         },
         "focus": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.primary.focus}"
+          "$value": "{shadow-raised.primary.focus}"
         },
         "pressed": {
           "$type": "boxShadow",
@@ -153,51 +153,51 @@
         },
         "default-negative": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.primary.default-negative}"
+          "$value": "{shadow-raised.primary.default-negative}"
         },
         "hover-negative": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.primary.hover-negative}"
+          "$value": "{shadow-raised.primary.hover-negative}"
         },
         "focus-negative": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.primary.focus-negative}"
+          "$value": "{shadow-raised.primary.focus-negative}"
         },
         "pressed-negative": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.primary.pressed-negative}"
+          "$value": "{shadow-raised.primary.pressed-negative}"
         }
       },
       "secondary": {
         "default": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.secondary.default}"
+          "$value": "{shadow-raised.secondary.default}"
         },
         "hover": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.secondary.hover}"
+          "$value": "{shadow-raised.secondary.hover}"
         },
         "focus": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.secondary.focus}"
+          "$value": "{shadow-raised.secondary.focus}"
         },
         "pressed": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.secondary.pressed}"
+          "$value": "{shadow-raised.secondary.pressed}"
         }
       },
       "tertiary": {
         "hover": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.secondary.hover}"
+          "$value": "{shadow-raised.secondary.hover}"
         },
         "focus": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.secondary.focus}"
+          "$value": "{shadow-raised.secondary.focus}"
         },
         "pressed": {
           "$type": "boxShadow",
-          "$value": "{shadow-raised-light.secondary.pressed}"
+          "$value": "{shadow-raised.secondary.pressed}"
         }
       }
     }
