@@ -87,7 +87,7 @@
   },
   "shadow": {
     "axis": {
-      "x-small": {
+      "small": {
         "1": {
           "$type": "sizing",
           "$value": "0"
@@ -99,20 +99,6 @@
         "3": {
           "$type": "sizing",
           "$value": "2"
-        }
-      },
-      "small": {
-        "1": {
-          "$type": "sizing",
-          "$value": "0"
-        },
-        "2": {
-          "$type": "sizing",
-          "$value": "1"
-        },
-        "3": {
-          "$type": "sizing",
-          "$value": "4"
         }
       },
       "regular": {
@@ -132,20 +118,6 @@
       "medium": {
         "1": {
           "$type": "sizing",
-          "$value": "1"
-        },
-        "2": {
-          "$type": "sizing",
-          "$value": "4"
-        },
-        "3": {
-          "$type": "sizing",
-          "$value": "16"
-        }
-      },
-      "large": {
-        "1": {
-          "$type": "sizing",
           "$value": "1.5"
         },
         "2": {
@@ -157,21 +129,7 @@
           "$value": "24"
         }
       },
-      "x-large": {
-        "1": {
-          "$type": "sizing",
-          "$value": "2"
-        },
-        "2": {
-          "$type": "sizing",
-          "$value": "8"
-        },
-        "3": {
-          "$type": "sizing",
-          "$value": "32"
-        }
-      },
-      "xx-large": {
+      "large": {
         "1": {
           "$type": "sizing",
           "$value": "2.5"
@@ -187,7 +145,7 @@
       }
     },
     "blur": {
-      "x-small": {
+      "small": {
         "1": {
           "$type": "sizing",
           "$value": "0"
@@ -199,20 +157,6 @@
         "3": {
           "$type": "sizing",
           "$value": "4"
-        }
-      },
-      "small": {
-        "1": {
-          "$type": "sizing",
-          "$value": "0.5"
-        },
-        "2": {
-          "$type": "sizing",
-          "$value": "2"
-        },
-        "3": {
-          "$type": "sizing",
-          "$value": "8"
         }
       },
       "regular": {
@@ -232,20 +176,6 @@
       "medium": {
         "1": {
           "$type": "sizing",
-          "$value": "2"
-        },
-        "2": {
-          "$type": "sizing",
-          "$value": "8"
-        },
-        "3": {
-          "$type": "sizing",
-          "$value": "32"
-        }
-      },
-      "large": {
-        "1": {
-          "$type": "sizing",
           "$value": "3"
         },
         "2": {
@@ -257,21 +187,7 @@
           "$value": "48"
         }
       },
-      "x-large": {
-        "1": {
-          "$type": "sizing",
-          "$value": "4"
-        },
-        "2": {
-          "$type": "sizing",
-          "$value": "16"
-        },
-        "3": {
-          "$type": "sizing",
-          "$value": "64"
-        }
-      },
-      "xx-large": {
+      "large": {
         "1": {
           "$type": "sizing",
           "$value": "5"
