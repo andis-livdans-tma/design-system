@@ -2,92 +2,92 @@
   "bg": {
     "base": {
       "$type": "color",
-      "$value": "{color-role-dark.neutral.0}"
+      "$value": "{color-role-dark.neutral.50}"
     },
     "surface": {
       "soft": {
         "neutral": {
           "weak": {
             "$type": "color",
-            "$value": "{color-role-dark.neutral.50}"
+            "$value": "{color-role-dark.neutral.100}"
           },
           "moderate": {
             "$type": "color",
-            "$value": "{color-role-dark.neutral.100}"
+            "$value": "{color-role-dark.neutral.150}"
           },
           "strong": {
             "$type": "color",
-            "$value": "{color-role-dark.neutral.150}"
+            "$value": "{color-role-dark.neutral.200}"
           }
         },
         "primary": {
           "weak": {
             "$type": "color",
-            "$value": "{color-role-dark.primary.50}"
+            "$value": "{color-role-dark.primary.100}"
           },
           "moderate": {
             "$type": "color",
-            "$value": "{color-role-dark.primary.100}"
+            "$value": "{color-role-dark.primary.150}"
           },
           "strong": {
             "$type": "color",
-            "$value": "{color-role-dark.primary.150}"
+            "$value": "{color-role-dark.primary.200}"
           }
         },
         "secondary": {
           "weak": {
             "$type": "color",
-            "$value": "{color-role-dark.secondary.50}"
+            "$value": "{color-role-dark.secondary.100}"
           },
           "moderate": {
             "$type": "color",
-            "$value": "{color-role-dark.secondary.100}"
+            "$value": "{color-role-dark.secondary.150}"
           },
           "strong": {
             "$type": "color",
-            "$value": "{color-role-dark.secondary.150}"
+            "$value": "{color-role-dark.secondary.200}"
           }
         },
         "positive": {
           "weak": {
             "$type": "color",
-            "$value": "{color-role-dark.positive.50}"
+            "$value": "{color-role-dark.positive.100}"
           },
           "moderate": {
             "$type": "color",
-            "$value": "{color-role-dark.positive.100}"
+            "$value": "{color-role-dark.positive.150}"
           },
           "strong": {
             "$type": "color",
-            "$value": "{color-role-dark.positive.150}"
+            "$value": "{color-role-dark.positive.200}"
           }
         },
         "warning": {
           "weak": {
             "$type": "color",
-            "$value": "{color-role-dark.warning.50}"
+            "$value": "{color-role-dark.warning.100}"
           },
           "moderate": {
             "$type": "color",
-            "$value": "{color-role-dark.warning.100}"
+            "$value": "{color-role-dark.warning.150}"
           },
           "strong": {
             "$type": "color",
-            "$value": "{color-role-dark.warning.150}"
+            "$value": "{color-role-dark.warning.200}"
           }
         },
         "negative": {
           "weak": {
             "$type": "color",
-            "$value": "{color-role-dark.negative.50}"
+            "$value": "{color-role-dark.negative.100}"
           },
           "moderate": {
             "$type": "color",
-            "$value": "{color-role-dark.negative.100}"
+            "$value": "{color-role-dark.negative.150}"
           },
           "strong": {
             "$type": "color",
-            "$value": "{color-role-dark.negative.150}"
+            "$value": "{color-role-dark.negative.200}"
           }
         }
       },
